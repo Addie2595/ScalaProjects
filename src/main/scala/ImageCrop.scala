@@ -1,6 +1,5 @@
-import java.awt.image.BufferedImage
-import javax.imageio.ImageIO
 import java.io.File
+import javax.imageio.ImageIO
 
 object ImageCrop extends App {
 //  val img = ImageIO.read(new File("/home/tomas/MEGA/Obrázky/tales/Screenshot from 2017-01-26 20-46-10.png"))
