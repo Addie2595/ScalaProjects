@@ -1,4 +1,4 @@
-package SFXCanvasTest
+package GameOfLife
 
 import GameOfLife.{Cell, Grid}
 
