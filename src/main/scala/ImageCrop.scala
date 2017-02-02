@@ -32,3 +32,5 @@ object ImageCrop extends App {
     count += 2
   }
 }
+
+// Some changes happened
